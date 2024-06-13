@@ -1,7 +1,5 @@
 # ML-projects
 
-# Machine Learning
-
 Machine Learning Academic year 23/24 "La Sapienza", Rome. 
 Master in Artificial Intelligence and Robotics
 
